@@ -45,15 +45,6 @@ Launch Jupyter Notebook:
 jupyter notebook
 ```
 Navigate to the desired notebook (e.g., Demo Bayes' Theorem.ipynb) and run the cells sequentially.
-## Screenshots
-
-Include screenshots of key outputs or visualizations here. For example:
-
-- Confidence interval results.
-
-- Rainfall analysis insights.
-
-- Author analysis from Books.csv.
 
 
 ## Conclusion
